@@ -17,21 +17,20 @@ vw_FactOrderDetails
 Data Import:
 
 Used import mode to bring the data from these views into Power BI.
+
 Date Dimension:
-
 Created a Date Dimension using DAX language.
-Visualizations:
 
+Visualizations:
 Developed various visuals to clearly display the business performance and support actionable insights for growth.
 Examples of Visuals Created:
 
 Overall Company Performance:
-
 General view of areas, salespersons, order frequency, and products.
+
 Operation Report:
-
 Sales team performance, allowing for rewards and comparisons with other team members, as well as comparisons with previous months and quarters.
-Inventory Report:
 
+Inventory Report:
 Detailed insights into product inventory.
 
